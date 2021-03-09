@@ -1,0 +1,139 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  color: #f05454;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+
+}
+
+h2{
+  color: #f05454;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.pg{
+  font-weight: normal;
+}
+h3{
+  color: #30475e;
+  font-family: 'Montserrat', sans-serif;
+}
+.top-container {
+   background-color: #E8E8E8;
+   position: relative;
+   padding-top: 100px;
+ }
+
+ .middle-container {
+
+ }
+
+ .bottom-container{
+
+ }
+
+ .top-cloud-img {
+   width: 200px;
+   height: 100px;
+   position: absolute;
+   right:   300px;
+   top: 50px;
+ }
+
+ .bottom-cloud-img {
+   width: 200px;
+   height: 100px;
+   position: absolute;
+   left: 300px;
+   top:  400px;
+ }
+.img-k{
+  width: 200px;
+}
+
+.img-s {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img-m {
+  width: 25%;
+  float: right;
+  margin-left: 30px
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+.profile {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.btn {
+   background-color: #f05454 ;
+   border-radius: 9px;
+   color: #FFFFFF;
+   font-family: 'montserrat', sans-serif;
+   font-size: 14px;
+   font-weight: normal;
+   padding: 10px;
+   border: solid #f05454 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.bottom-container{
+  margin-top: 50px;
+  height: 150px;
+  background-color: #222831;
+}
+
+.footer-link{
+  position: relative;
+  top: 40px;
+  padding: 20px;
+  text-decoration: none;
+  color: #f05454;
+  font-family: 'montserrat' sans-serif;
+}
+
+.sign{
+  position: relative;
+  top: 60px;
+  color: white;
+  font-family: 'montserrat' sans-serif;
+}
+
+.mount-img{
+  position: relative;
+  left: 600px;
+  height: 100px;
+  width: 200px;
+}
+.contact-me{
+  margin-top: 50px;
+}
